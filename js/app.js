@@ -9,6 +9,11 @@ for(let i = 1; i <= 50; i++) {
 
 // 3 masala
 
+for(let i = 8; i >= 1; i--) {
+    if(i % 2 == 0)
+        console.log(i)
+}
+
 // 4 masala
 
 for (let i = 1; i <= 10; i++) {
