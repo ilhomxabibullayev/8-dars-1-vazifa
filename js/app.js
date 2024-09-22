@@ -7,6 +7,8 @@ for(let i = 1; i <= 50; i++) {
 
 // 2 masala
 
+
+
 // 3 masala
 
 for(let i = 8; i >= 1; i--) {
